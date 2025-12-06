@@ -1,0 +1,5 @@
+{
+  "name": "Nihongo Sensei AI",
+  "description": "An intelligent Japanese learning assistant powered by Gemini. Features AI-generated lessons, JLPT quizzes, and a smart translator with grammar explanations.",
+  "requestFramePermissions": []
+}
